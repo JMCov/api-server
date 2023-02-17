@@ -10,8 +10,8 @@ API Server for running tests on methods, paths, and queries
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/JMCov/basic-api-server/actions)
-- Prod [back-end server url](https://basic-api-server-buy3.onrender.com)
+- [GitHub Actions ci/cd](https://github.com/JMCov/api-server/actions)
+- Prod [back-end server url](https://api-server-9dzy.onrender.com)
 
 ### Setup
 
@@ -41,4 +41,4 @@ N/A
 
 #### UML
 
-![Lab-04 UML](assets/lab-04-uml.png)
+![Lab-04 UML](assets/lab-04-uml.PNG)
