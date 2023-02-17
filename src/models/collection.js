@@ -21,7 +21,7 @@ class Collection {
   async read(id = null) {
     try {
       if (!id) {
-        const records = await this.customerModel.findAll();
+        const records = await this.model.findAll();
         return records;
       } else {
         const record = await this.model.findByPk(id);
